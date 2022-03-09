@@ -1,0 +1,23 @@
+Get All Users
+http://localhost:2000/api/auth/users
+
+
+Register  employee
+http://localhost:2000/api/auth/register
+
+
+Login employee
+http://localhost:2000/api/auth/login
+
+
+
+Get User Profile Based on Token
+http://localhost:2000/api/auth/userInfo
+  
+
+Register  Institution
+http://localhost:2000/api/auth/InstituteRegister
+
+
+Login Institution
+http://localhost:2000/api/auth/instituteLogin
